@@ -1,2 +1,0 @@
-const nome = Daiane
-console.log(`Minha namorada se chama ${nome}`)
